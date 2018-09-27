@@ -95,6 +95,7 @@ h1 #channel-star {
     /* #6 #liking #filled  */
     position:absolute;
     right: 16px;
+    color: black;
 }
 
 /* CHANNELS LIST */
@@ -269,4 +270,8 @@ li.selected {
 
 .message.own {
     margin-left: 17.5%;
+}
+
+.fa-star{
+    font-size: 24px;
 }
